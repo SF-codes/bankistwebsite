@@ -2,10 +2,11 @@
 
 The webfront to the Bankist bank app, with a simplistic clean view, packed with features like smooth scrolling, lazy image loading, fade animation, modal windows, navigation, and OOP. 
 
-![Screenshot 2022-01-21 at 16-27-04 Bankist When Banking meets Minimalist](https://user-images.githubusercontent.com/82302032/150603119-ffe278dd-2643-46ac-8284-5a8952d45d5a.png)
-
 ### Links
 Live Site URL: https://sf-codes.github.io/bankistwebsite/
+
+![Screenshot 2022-01-21 at 16-27-04 Bankist When Banking meets Minimalist](https://user-images.githubusercontent.com/82302032/150603119-ffe278dd-2643-46ac-8284-5a8952d45d5a.png)
+
 
 ### Built with & Features
 
