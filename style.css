@@ -672,3 +672,12 @@ h4 {
   font-size: 1.5rem;
   font-weight: 400;
 }
+
+@media screen and (max-width: 768px) {
+  .features {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .nav {
+    padding: 0;
+  }
+}
